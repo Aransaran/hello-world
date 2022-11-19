@@ -1,3 +1,3 @@
 # hello-world
-my repository on gitgub
+my repository on github
 I love :coffee: :pizza:, and :dancer:.
